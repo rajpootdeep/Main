@@ -1,0 +1,2 @@
+Ram|is|man
+You|are|boy

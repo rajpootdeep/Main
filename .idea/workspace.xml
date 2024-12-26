@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Main" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Main" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Main" type="f1a62948:ProjectNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Record" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../Default" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2lXweA61xw6wwQOlFJk2RqS6gFg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Main [:org.DSA.Search.BinarySearch.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Search.PracticeSearch.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.BubbleSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.InsertionSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.MergeSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.PracticeSortingQn.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.QuickSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DSA.Sorting.SelectionSort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.DesignPattern.Singleton.Driver.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.SOLID.LSP.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.collectionFramework.CollectionsClass.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.collectionFramework.HashMp.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.collectionFramework.LinkedKListImpl.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.collectionFramework.Map.HashMapImplementation.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.collectionFramework.ValidInputString.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.example.AllSubstring.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.example.CitiusTech.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.example.HCL.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.example.Practice.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.immutable.Strings.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.immutable.Test.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.java17.CarRecord.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.java17.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.jdbc.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.lambda.mainLambda.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.NthNearestPalindromeNumber.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.NumberPattern.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.TWO_D_ARRAYLIST.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.TempPractice.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.TrianglePattern.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.practiceBasicCode.libraryMgmt.LIBRARYMANAGEMENT.main()].executor&quot;: &quot;Debug&quot;,
+    &quot;Gradle.Main [:org.recursion.FrogJump.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.KeyPadCombinations.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.LinearSearchRecursion.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.PrintArrayRecur.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.ReverseString.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.StringRecursion.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.SumOfDisgitsAndPower.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.factorial.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.fibonacci.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.gcdusingRecursion.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.printOnetoN.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.recursion.sumOfNaturalNumWithAltSign.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.statics.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.streams.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.streams.parctice.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.test.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.test.test.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.thread.DeadLock.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [:org.thread.Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Main [dependencies].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/NMS/nms&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;D:/intellij/Deflt/Main/Main/src/main/java/org/example/Main.java&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.TempPractice">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.DSA.Search.BinarySearch" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.DSA.Search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HCL" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HCL" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NthNearestPalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.practiceBasicCode.NthNearestPalindromeNumber" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practiceBasicCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TempPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.practiceBasicCode.TempPractice" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.practiceBasicCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.example.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TempPractice" />
+        <item itemvalue="Application.NthNearestPalindromeNumber" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.HCL" />
+        <item itemvalue="Application.org.example.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="" />
+      <created>1725339827177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725339827177</updated>
+    </task>
+    <servers />
+  </component>
+</project>
