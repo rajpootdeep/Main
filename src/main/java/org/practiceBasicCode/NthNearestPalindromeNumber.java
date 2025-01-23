@@ -16,7 +16,7 @@ public class NthNearestPalindromeNumber {
     * difference of distance is nearest
     * distance ke hisab se pachwa nearest
     *
-    * Main question of Delloite
+    * ArrayAdditions question of Delloite
     * */
     private static int nThNearestPalindromeWithMinDifference(int n, int t) {
         LinkedList<Integer> lowerPalindrome = new LinkedList<>();
