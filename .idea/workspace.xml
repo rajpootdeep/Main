@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/AntinoLabs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Coforge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GoDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PeersIsLand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PeerslandL2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/XPheno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/ArrayAddition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="Updated and added code">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Altimetrik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CoforgeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/A1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/A2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/ClassA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/NthNearestPalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/NthNearestPalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/TWO_D_ARRAYLIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/TWO_D_ARRAYLIST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/Vehicle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +111,10 @@
     "Gradle.Main [:org.collectionFramework.Map.HashMapImplementation.main()].executor": "Run",
     "Gradle.Main [:org.collectionFramework.ValidInputString.main()].executor": "Run",
     "Gradle.Main [:org.example.AllSubstring.main()].executor": "Run",
+    "Gradle.Main [:org.example.Altimetrik.main()].executor": "Run",
     "Gradle.Main [:org.example.CitiusTech.main()].executor": "Run",
     "Gradle.Main [:org.example.Coforge.main()].executor": "Run",
+    "Gradle.Main [:org.example.CoforgeClient.main()].executor": "Run",
     "Gradle.Main [:org.example.HCL.main()].executor": "Run",
     "Gradle.Main [:org.example.Main.main()].executor": "Run",
     "Gradle.Main [:org.example.PeersIsLand.main()].executor": "Run",
@@ -147,6 +147,7 @@
     "Gradle.Main [:org.statics.Main.main()].executor": "Run",
     "Gradle.Main [:org.streams.Main.main()].executor": "Run",
     "Gradle.Main [:org.streams.parctice.main()].executor": "Run",
+    "Gradle.Main [:org.test.ClassA.main()].executor": "Run",
     "Gradle.Main [:org.test.Main.main()].executor": "Run",
     "Gradle.Main [:org.test.test.main()].executor": "Run",
     "Gradle.Main [:org.thread.DeadLock.main()].executor": "Run",
@@ -163,7 +164,33 @@
     "two.files.diff.last.used.file": "D:/intellij/Deflt/Main/Main/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.XPheno">
+  <component name="RunManager" selected="Application.ClassA">
+    <configuration name="Altimetrik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Altimetrik" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClassA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.test.ClassA" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Coforge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Coforge" />
       <module name="Main.main" />
@@ -177,38 +204,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NthNearestPalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.practiceBasicCode.NthNearestPalindromeNumber" />
-      <module name="Main.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.practiceBasicCode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PeersIsLand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.PeersIsLand" />
+    <configuration name="CoforgeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.CoforgeClient" />
       <module name="Main.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TempPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.practiceBasicCode.TempPractice" />
-      <module name="Main.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.practiceBasicCode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -231,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ClassA" />
+        <item itemvalue="Application.Altimetrik" />
+        <item itemvalue="Application.CoforgeClient" />
         <item itemvalue="Application.XPheno" />
         <item itemvalue="Application.Coforge" />
-        <item itemvalue="Application.PeersIsLand" />
-        <item itemvalue="Application.TempPractice" />
-        <item itemvalue="Application.NthNearestPalindromeNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -248,6 +249,19 @@
       <option name="presentableId" value="Default" />
       <updated>1725339827177</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated and added code">
+      <option name="closed" value="true" />
+      <created>1737601306164</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1737601306164</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated and added code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated and added code" />
   </component>
 </project>

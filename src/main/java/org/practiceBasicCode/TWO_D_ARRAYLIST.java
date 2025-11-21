@@ -15,6 +15,9 @@ public class TWO_D_ARRAYLIST {
         s[1][2] = new Student("Ramayana");
         ArrayList<Student> st = null;
 
+        List<String> list=new ArrayList<>();
+ArrayList<ArrayList<String>> ll= new ArrayList<ArrayList<String>>();
+
         ArrayList<ArrayList<Student>> ar = new ArrayList<>();
         for (int i = 0; i < s.length; i++) {
             st = new ArrayList<>();
