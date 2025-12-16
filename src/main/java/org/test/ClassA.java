@@ -20,3 +20,4 @@ public class ClassA implements A2,A1{
         a.m1();
     }
 }
+

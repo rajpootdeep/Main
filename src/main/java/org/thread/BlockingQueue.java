@@ -17,7 +17,7 @@ public class BlockingQueue {
             try {
                 q.wait();
             } catch (InterruptedException e) {
-                throw new RuntimeException(e);
+                throw new RuntimeException(e)  ;
             }
         }
 

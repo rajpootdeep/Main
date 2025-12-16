@@ -4,26 +4,27 @@ public class Main {
     public static void main(String[] args) throws InterruptedException {
 
 //        created -> new > started(Ready to run)  < - > running > dead
-//        sleeping, Blocked for join completion, Blocked for I/O ,
-// [ waiting for notification -> Blocked for lock aquisition ]
+//        sleeping, Blocked for join completion, Blocked for I/O ---> Ready to run state
+// [ waiting for notification --on notification-> Blocked for lock aquisition ]
 
-//        yield() -> this method will advise jvm to move thread from running state to read to run state.
+//        yield() -> this method will advise jvm to move thread from running state to ready to run state.
 
-//preemptive, Tim sliced/Round Robbin
+//Thread Schedulers in JVM implementation :   preemptive, Tim sliced/Round Robbin
 
 //      Starvation occurs when a thread is unable to gain access to a required resource
 
-        Thread thread=new Thread(new Runnable() {
-            @Override
-            public void run() {
-                System.out.println("Rammmmmmm");
-            }
-        });
-
-        thread.start();
-        thread.start();
 
 
+
+//        Thread thread=new Thread(new Runnable() {
+//            @Override
+//            public void run() {
+//                System.out.println("Rammmmmmm");
+//            }
+//        });
+//
+//        thread.start();
+//        thread.start();
 
 
        /* System.out.println("Main is starting...");

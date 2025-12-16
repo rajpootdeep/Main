@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="Updated and added code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Altimetrik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/CoforgeClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/A1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/A2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/test/ClassA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/ExecutorFramework/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/ExecutorFramework/Problem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/ExplicitLock/CustomThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/ExplicitLock/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/ExplicitLock/Withdraw.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/TWO_D_ARRAYLIST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/practiceBasicCode/TWO_D_ARRAYLIST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/test/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/test/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/thread/BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/thread/BlockingQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/thread/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/thread/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/rajpootdeep/Main.git&quot;,
-    &quot;accountId&quot;: &quot;a1298ccc-ea1f-44f0-805e-741c3811f3a4&quot;
+    &quot;accountId&quot;: &quot;29b5f046-1210-41c9-8ece-0d9eb64f4084&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -126,6 +127,7 @@
     "Gradle.Main [:org.java17.Main.main()].executor": "Run",
     "Gradle.Main [:org.jdbc.Main.main()].executor": "Run",
     "Gradle.Main [:org.lambda.mainLambda.main()].executor": "Run",
+    "Gradle.Main [:org.multiThreading.ExecutorFramework.Problem.main()].executor": "Run",
     "Gradle.Main [:org.practiceBasicCode.NthNearestPalindromeNumber.main()].executor": "Run",
     "Gradle.Main [:org.practiceBasicCode.NumberPattern.main()].executor": "Run",
     "Gradle.Main [:org.practiceBasicCode.TWO_D_ARRAYLIST.main()].executor": "Run",
@@ -156,7 +158,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "develop",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/intellij/Main",
+    "last_opened_file_path": "D:/intellij/Java_Notes",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -164,7 +166,7 @@
     "two.files.diff.last.used.file": "D:/intellij/Deflt/Main/Main/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ClassA">
+  <component name="RunManager" selected="Application.Problem">
     <configuration name="Altimetrik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Altimetrik" />
       <module name="Main.main" />
@@ -191,19 +193,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Coforge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Coforge" />
-      <module name="Main.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="CoforgeClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.CoforgeClient" />
       <module name="Main.main" />
@@ -217,12 +206,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="XPheno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.XPheno" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.thread.Main" />
       <module name="Main.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.*" />
+          <option name="PATTERN" value="org.thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.multiThreading.ExecutorFramework.Problem" />
+      <module name="Main.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.multiThreading.ExecutorFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -232,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.ClassA" />
         <item itemvalue="Application.Altimetrik" />
         <item itemvalue="Application.CoforgeClient" />
-        <item itemvalue="Application.XPheno" />
-        <item itemvalue="Application.Coforge" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737601306164</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated and added code">
+      <option name="closed" value="true" />
+      <created>1763718592780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763718592780</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
