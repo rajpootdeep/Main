@@ -5,13 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee2f0e70-c327-4bf3-ba81-8d31dff57cc2" name="Changes" comment="Updated and added code">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/multiThreading/VirtualThread/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/java26/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/thread/ThreadLocalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/deepkumar/IdeaProjects/Main" value="2lXweA61xw6wwQOlFJk2RqS6gFg" />
+    </persistenceIdMap>
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="121" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -30,22 +42,6 @@
               <path>
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="Main" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Main" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Main" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Main" type="f1a62948:ProjectNode" />
-                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
               </path>
             </expand>
             <select />
@@ -81,101 +77,114 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/rajpootdeep/Main.git&quot;,
-    &quot;accountId&quot;: &quot;29b5f046-1210-41c9-8ece-0d9eb64f4084&quot;
+    &quot;accountId&quot;: &quot;dd4b3539-eac0-46ca-a814-cbb20c778495&quot;
   }
 }</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2lXweA61xw6wwQOlFJk2RqS6gFg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Main [:org.DSA.Search.BinarySearch.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Search.PracticeSearch.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.BubbleSort.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.InsertionSort.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.MergeSort.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.PracticeSortingQn.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.QuickSort.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DSA.Sorting.SelectionSort.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.DesignPattern.Singleton.Driver.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.SOLID.LSP.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.collectionFramework.CollectionsClass.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.collectionFramework.HashMp.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.collectionFramework.LinkedKListImpl.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.collectionFramework.Map.HashMapImplementation.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.collectionFramework.ValidInputString.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.AllSubstring.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.Altimetrik.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.CitiusTech.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.Coforge.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.CoforgeClient.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.HCL.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.PeersIsLand.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.Practice.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.example.XPheno.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.immutable.Strings.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.immutable.Test.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.java17.CarRecord.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.java17.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.jdbc.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.lambda.mainLambda.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.multiThreading.ExecutorFramework.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.multiThreading.ExecutorFramework.Problem.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.multiThreading.ExplicitLock.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.multiThreading.VirtualThread.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.NthNearestPalindromeNumber.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.NumberPattern.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.TWO_D_ARRAYLIST.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.TempPractice.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.TrianglePattern.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.practiceBasicCode.libraryMgmt.LIBRARYMANAGEMENT.main()].executor&quot;: &quot;Debug&quot;,
-    &quot;Gradle.Main [:org.recursion.FrogJump.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.KeyPadCombinations.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.LinearSearchRecursion.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.PrintArrayRecur.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.ReverseString.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.StringRecursion.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.SumOfDisgitsAndPower.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.factorial.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.fibonacci.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.gcdusingRecursion.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.printOnetoN.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.recursion.sumOfNaturalNumWithAltSign.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.statics.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.streams.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.streams.parctice.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.test.ClassA.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.test.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.test.test.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.thread.DeadLock.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [:org.thread.Main.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [build].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Main [dependencies].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;develop&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/intellij/Java_Notes&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;D:/intellij/Deflt/Main/Main/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Main [:org.DSA.Search.BinarySearch.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Search.PracticeSearch.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.BubbleSort.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.InsertionSort.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.MergeSort.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.PracticeSortingQn.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.QuickSort.main()].executor": "Run",
+    "Gradle.Main [:org.DSA.Sorting.SelectionSort.main()].executor": "Run",
+    "Gradle.Main [:org.DesignPattern.Singleton.Driver.main()].executor": "Run",
+    "Gradle.Main [:org.SOLID.LSP.Main.main()].executor": "Run",
+    "Gradle.Main [:org.collectionFramework.CollectionsClass.main()].executor": "Run",
+    "Gradle.Main [:org.collectionFramework.HashMp.main()].executor": "Run",
+    "Gradle.Main [:org.collectionFramework.LinkedKListImpl.main()].executor": "Run",
+    "Gradle.Main [:org.collectionFramework.Map.HashMapImplementation.main()].executor": "Run",
+    "Gradle.Main [:org.collectionFramework.ValidInputString.main()].executor": "Run",
+    "Gradle.Main [:org.example.AllSubstring.main()].executor": "Run",
+    "Gradle.Main [:org.example.Altimetrik.main()].executor": "Run",
+    "Gradle.Main [:org.example.CitiusTech.main()].executor": "Run",
+    "Gradle.Main [:org.example.Coforge.main()].executor": "Run",
+    "Gradle.Main [:org.example.CoforgeClient.main()].executor": "Run",
+    "Gradle.Main [:org.example.HCL.main()].executor": "Run",
+    "Gradle.Main [:org.example.Main.main()].executor": "Run",
+    "Gradle.Main [:org.example.PeersIsLand.main()].executor": "Run",
+    "Gradle.Main [:org.example.Practice.main()].executor": "Run",
+    "Gradle.Main [:org.example.XPheno.main()].executor": "Run",
+    "Gradle.Main [:org.immutable.Strings.main()].executor": "Run",
+    "Gradle.Main [:org.immutable.Test.main()].executor": "Run",
+    "Gradle.Main [:org.java17.CarRecord.main()].executor": "Run",
+    "Gradle.Main [:org.java17.Main.main()].executor": "Run",
+    "Gradle.Main [:org.jdbc.Main.main()].executor": "Run",
+    "Gradle.Main [:org.lambda.mainLambda.main()].executor": "Run",
+    "Gradle.Main [:org.multiThreading.ExecutorFramework.Main.main()].executor": "Run",
+    "Gradle.Main [:org.multiThreading.ExecutorFramework.Problem.main()].executor": "Run",
+    "Gradle.Main [:org.multiThreading.ExplicitLock.Main.main()].executor": "Run",
+    "Gradle.Main [:org.multiThreading.VirtualThread.Main.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.NthNearestPalindromeNumber.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.NumberPattern.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.TWO_D_ARRAYLIST.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.TempPractice.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.TrianglePattern.main()].executor": "Run",
+    "Gradle.Main [:org.practiceBasicCode.libraryMgmt.LIBRARYMANAGEMENT.main()].executor": "Debug",
+    "Gradle.Main [:org.recursion.FrogJump.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.KeyPadCombinations.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.LinearSearchRecursion.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.PrintArrayRecur.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.ReverseString.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.StringRecursion.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.SumOfDisgitsAndPower.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.factorial.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.fibonacci.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.gcdusingRecursion.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.printOnetoN.main()].executor": "Run",
+    "Gradle.Main [:org.recursion.sumOfNaturalNumWithAltSign.main()].executor": "Run",
+    "Gradle.Main [:org.statics.Main.main()].executor": "Run",
+    "Gradle.Main [:org.streams.Main.main()].executor": "Run",
+    "Gradle.Main [:org.streams.parctice.main()].executor": "Run",
+    "Gradle.Main [:org.test.ClassA.main()].executor": "Run",
+    "Gradle.Main [:org.test.Main.main()].executor": "Run",
+    "Gradle.Main [:org.test.test.main()].executor": "Run",
+    "Gradle.Main [:org.thread.DeadLock.main()].executor": "Run",
+    "Gradle.Main [:org.thread.Main.main()].executor": "Run",
+    "Gradle.Main [:org.thread.ThreadLocalExample.main()].executor": "Run",
+    "Gradle.Main [build].executor": "Run",
+    "Gradle.Main [dependencies].executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "develop",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/intellij/Java_Notes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.updates",
+    "two.files.diff.last.used.file": "D:/intellij/Deflt/Main/Main/src/main/java/org/example/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.org.multiThreading.VirtualThread.Main">
-    <configuration name="Problem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.multiThreading.ExecutorFramework.Problem" />
+}]]></component>
+  <component name="RunManager" selected="Application.ThreadLocalExample">
+    <configuration name="ThreadLocalExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.thread.ThreadLocalExample" />
       <module name="Main.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.multiThreading.ExecutorFramework.*" />
+          <option name="PATTERN" value="org.thread.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -240,19 +249,29 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThreadLocalExample" />
         <item itemvalue="Application.org.multiThreading.VirtualThread.Main" />
         <item itemvalue="Gradle.Main [build]" />
         <item itemvalue="Application.org.multiThreading.ExecutorFramework.Main" />
         <item itemvalue="Application.org.multiThreading.ExplicitLock.Main" />
-        <item itemvalue="Application.Problem" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.32098.37" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -314,8 +333,23 @@
     <option name="localTasksCounter" value="7" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated and added code" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated and added code" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
   </component>
 </project>
